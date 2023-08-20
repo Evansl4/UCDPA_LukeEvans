@@ -1,0 +1,505 @@
+player_name,team,position
+Aaron Ramsdale,Arsenal,GK
+Gabriel Dos Santos,Arsenal,DF
+Bukayo Saka,Arsenal,FW
+Martin Ødegaard,Arsenal,MF
+Ben White,Arsenal,DF
+Granit Xhaka,Arsenal,MF
+Martinelli,Arsenal,FW
+Thomas Partey,Arsenal,MF
+William Saliba,Arsenal,DF
+Oleksandr Zinchenko,Arsenal,DF
+Gabriel Jesus,Arsenal,FW
+Leandro Trossard,Arsenal,FW
+Eddie Nketiah,Arsenal,FW
+Jorginho,Arsenal,MF
+Kieran Tierney,Arsenal,DF
+Takehiro Tomiyasu,Arsenal,DF
+Rob Holding,Arsenal,DF
+Jakub Kiwior,Arsenal,DF
+Fabio Vieira,Arsenal,MF
+Albert Sambi Lokonga,Arsenal,MF
+Mohamed Elneny,Arsenal,MF
+Reiss Nelson,Arsenal,FW
+Emile Smith Rowe,Arsenal,MF
+Cédric Soares,Arsenal,DF
+Ezri Konsa,Aston Villa,DF
+Emiliano Martínez,Aston Villa,GK
+Ollie Watkins,Aston Villa,FW
+Tyrone Mings,Aston Villa,DF
+Douglas Luiz,Aston Villa,MF
+Jacob Ramsey,Aston Villa,MF
+John McGinn,Aston Villa,MF
+Emi Buendía,Aston Villa,MF
+Leon Bailey,Aston Villa,FW
+Ashley Young,Aston Villa,DF
+Boubacar Kamara,Aston Villa,MF
+Matty Cash,Aston Villa,DF
+Lucas Digne,Aston Villa,DF
+Álex Moreno,Aston Villa,DF
+Danny Ings,Aston Villa,FW
+Philippe Coutinho,Aston Villa,MF
+Leander Dendoncker,Aston Villa,MF
+Calum Chambers,Aston Villa,DF
+Robin Olsen,Aston Villa,GK
+Diego Carlos,Aston Villa,DF
+Bertrand Traoré,Aston Villa,FW
+Jan Bednarek,Aston Villa,DF
+Jhon Durán,Aston Villa,FW
+Morgan Sanson,Aston Villa,MF
+Jefferson Lerma, Bournemouth,MF
+Adam Smith, Bournemouth,DF
+Philip Billing, Bournemouth,MF
+Dominic Solanke, Bournemouth,FW
+Marcos Senesi, Bournemouth,DF
+Neto, Bournemouth,GK
+Chris Mepham, Bournemouth,DF
+Lloyd Kelly, Bournemouth,DF
+Ryan Christie, Bournemouth,MF
+Marcus Tavernier, Bournemouth,MF
+Lewis Cook, Bournemouth,MF
+Jordan Zemura, Bournemouth,DF
+Dango Ouattara, Bournemouth,MF
+Jack Stephens, Bournemouth,DF
+Kieffer Moore, Bournemouth,FW
+Joe Rothwell, Bournemouth,MF
+Jaidon Anthony, Bournemouth,MF
+Ryan Fredericks, Bournemouth,DF
+Matías Viña, Bournemouth,DF
+Hamed Junior Traorè, Bournemouth,FW
+Jack Stacey, Bournemouth,DF
+Illia Zabarnyi, Bournemouth,DF
+Ben Pearson, Bournemouth,MF
+Antoine Semenyo, Bournemouth,FW
+David Brooks, Bournemouth,FW
+Siriki Dembélé, Bournemouth,FW
+David Raya,Brentford,GK
+Ben Mee,Brentford,DF
+Rico Henry,Brentford,DF
+Mathias Jensen,Brentford,MF
+Bryan Mbeumo,Brentford,FW
+Ivan Toney,Brentford,FW
+Ethan Pinnock,Brentford,DF
+Vitaly Janelt,Brentford,MF
+Aaron Hickey,Brentford,DF
+Christian Nørgaard,Brentford,MF
+Yoane Wissa,Brentford,FW
+Josh Dasilva,Brentford,MF
+Mads Roerslev,Brentford,DF
+Mathias Jørgensen,Brentford,DF
+Mikkel Damsgaard,Brentford,MF
+Kristoffer Ajer,Brentford,DF
+Pontus Jansson,Brentford,DF
+Frank Onyeka,Brentford,MF
+Kevin Schade,Brentford,FW
+Shandon Baptiste,Brentford,MF
+Saman Ghoddos,Brentford,MF
+Sergi Canós,Brentford,FW
+Halil Dervişoğlu,Brentford,MF
+Pascal Groß,Brighton,MF
+Lewis Dunk,Brighton,DF
+Moisés Caicedo,Brighton,MF
+Alexis Mac Allister,Brighton,MF
+Solly March,Brighton,FW
+Pervis Estupiñán,Brighton,DF
+Joël Veltman,Brighton,DF
+Kaoru Mitoma,Brighton,FW
+Adam Webster,Brighton,DF
+Danny Welbeck,Brighton,FW
+Leandro Trossard,Brighton,FW
+Jason Steele,Brighton,GK
+Levi Colwill,Brighton,DF
+Adam Lallana,Brighton,MF
+Evan Ferguson,Brighton,FW
+Julio César Enciso,Brighton,FW
+Billy Gilmour,Brighton,MF
+Deniz Undav,Brighton,FW
+Facundo Buonanotte,Brighton,FW
+Tariq Lamptey,Brighton,DF
+Jan Paul van Hecke,Brighton,DF
+Enock Mwepu,Brighton,FW
+Jeremy Sarmiento,Brighton,MF
+Yasin Ayari,Brighton,MF
+Odeluga Offiah,Brighton,DF
+Kai Havertz,Chelsea,FW
+Kepa Arrizabalaga,Chelsea,GK
+Thiago Silva,Chelsea,DF
+Raheem Sterling,Chelsea,FW
+Marc Cucurella,Chelsea,DF
+Kalidou Koulibaly,Chelsea,DF
+Mason Mount,Chelsea,MF
+Ruben Loftus-Cheek,Chelsea,MF
+Conor Gallagher,Chelsea,MF
+Trevoh Chalobah,Chelsea,DF
+Enzo Fernández,Chelsea,MF
+Mateo Kovačić,Chelsea,MF
+César Azpilicueta,Chelsea,DF
+Ben Chilwell,Chelsea,DF
+Jorginho,Chelsea,MF
+Reece James,Chelsea,DF
+Wesley Fofana,Chelsea,DF
+João Félix,Chelsea,FW
+Benoît Badiashile,Chelsea,DF
+Christian Pulisic,Chelsea,FW
+Lewis Hall,Chelsea,DF
+Mykhailo Mudryk,Chelsea,FW
+Noni Madueke,Chelsea,FW
+Hakim Ziyech,Chelsea,FW
+N'Golo Kanté,Chelsea,MF
+Pierre-Emerick Aubameyang,Chelsea,FW
+Denis Zakaria,Chelsea,MF
+Carney Chukwuemeka,Chelsea,MF
+Armando Broja,Chelsea,FW
+Datro Fofana,Chelsea,FW
+Marc Guéhi,Crystal Palace,DF
+Tyrick Mitchell,Crystal Palace,DF
+Cheick Doucouré,Crystal Palace,MF
+Joachim Andersen,Crystal Palace,DF
+Michael Olise,Crystal Palace,FW
+Jordan Ayew,Crystal Palace,FW
+Eberechi Eze,Crystal Palace,MF
+Jeffrey Schlupp,Crystal Palace,MF
+Wilfried Zaha,Crystal Palace,FW
+Joel Ward,Crystal Palace,DF
+Odsonne Édouard,Crystal Palace,FW
+Nathaniel Clyne,Crystal Palace,DF
+Will Hughes,Crystal Palace,MF
+Jean-Philippe Mateta,Crystal Palace,FW
+Albert Sambi Lokonga,Crystal Palace,MF
+Luka Milivojević,Crystal Palace,MF
+Chris Richards,Crystal Palace,DF
+James Tomkins,Crystal Palace,DF
+Naouirou Ahamada,Crystal Palace,MF
+Jaïro Riedewald,Crystal Palace,DF
+James McArthur,Crystal Palace,MF
+Malcolm Ebiowei,Crystal Palace,MF
+James Tarkowski,Everton,DF
+Alex Iwobi,Everton,MF
+Jordan Pickford,Everton,GK
+Idrissa Gana Gueye,Everton,MF
+Vitaliy Mykolenko,Everton,DF
+Amadou Onana,Everton,MF
+Dwight McNeil,Everton,FW
+Demarai Gray,Everton,FW
+Conor Coady,Everton,DF
+Séamus Coleman,Everton,DF
+Abdoulaye Doucouré,Everton,MF
+Dominic Calvert-Lewin,Everton,FW
+Nathan Patterson,Everton,DF
+Anthony Gordon,Everton,FW
+Neal Maupay,Everton,FW
+Michael Keane,Everton,DF
+Ben Godfrey,Everton,DF
+James Garner,Everton,MF
+Yerry Mina,Everton,DF
+Mason Holgate,Everton,DF
+Tom Davies,Everton,MF
+Isaac Price,Everton,MF
+Rúben Vinagre,Everton,DF
+Bernd Leno,Fulham,GK
+João Palhinha,Fulham,MF
+Antonee Robinson,Fulham,DF
+Harrison Reed,Fulham,MF
+Tim Ream,Fulham,DF
+Andreas Pereira,Fulham,MF
+Kenny Tete,Fulham,DF
+Bobby Reid,Fulham,FW
+Willian,Fulham,FW
+Tosin Adarabioyo,Fulham,DF
+Aleksandar Mitrović,Fulham,FW
+Issa Diop,Fulham,DF
+Harry Wilson,Fulham,FW
+Carlos Vinícius,Fulham,FW
+Neeskens Kebano,Fulham,FW
+Tom Cairney,Fulham,MF
+Daniel James,Fulham,FW
+Manor Solomon,Fulham,FW
+Saša Lukić,Fulham,MF
+Cédric Soares,Fulham,DF
+Layvin Kurzawa,Fulham,DF
+Kevin Mbabu,Fulham,DF
+Jay Stansfield,Fulham,FW
+Nathaniel Chalobah,Fulham,MF
+Robin Koch,Leeds United,DF
+Illan Meslier,Leeds United,GK
+Jack Harrison,Leeds United,FW
+Marc Roca,Leeds United,MF
+Brenden Aaronson,Leeds United,MF
+Pascal Struijk,Leeds United,DF
+Tyler Adams,Leeds United,MF
+Rodrigo,Leeds United,FW
+Luke Ayling,Leeds United,DF
+Rasmus Nissen,Leeds United,DF
+Patrick Bamford,Leeds United,FW
+Weston McKennie,Leeds United,MF
+Liam Cooper,Leeds United,DF
+Junior Firpo,Leeds United,DF
+Degnand Gnonto,Leeds United,FW
+Maximilian Wöber,Leeds United,DF
+Luis Sinisterra,Leeds United,FW
+Crysencio Summerville,Leeds United,FW
+Diego Llorente,Leeds United,DF
+Adam Forshaw,Leeds United,MF
+Joel Robles,Leeds United,GK
+Sam Greenwood,Leeds United,MF
+Daniel James,Leeds United,FW
+Georginio Rutter,Leeds United,FW
+Joe Gelhardt,Leeds United,FW
+Cody Drameh,Leeds United,DF
+Mateusz Klich,Leeds United,MF
+Timothy Castagne,Leicester City,DF
+Harvey Barnes,Leicester City,FW
+Wout Faes,Leicester City,DF
+James Maddison,Leicester City,MF
+Kiernan Dewsbury-Hall,Leicester City,MF
+Youri Tielemans,Leicester City,MF
+Danny Ward,Leicester City,GK
+Boubakary Soumaré,Leicester City,MF
+Jamie Vardy,Leicester City,FW
+Wilfred Ndidi,Leicester City,MF
+Daniel Amartey,Leicester City,DF
+James Justin,Leicester City,DF
+Patson Daka,Leicester City,FW
+Jonny Evans,Leicester City,DF
+Kelechi Iheanacho,Leicester City,FW
+Luke Thomas,Leicester City,DF
+Harry Souttar,Leicester City,DF
+Victor Bernth Kristiansen,Leicester City,DF
+Tetê,Leicester City,FW
+Nampalys Mendy,Leicester City,MF
+Dennis Praet,Leicester City,MF
+Çağlar Söyüncü,Leicester City,DF
+Ricardo Pereira,Leicester City,DF
+Ayoze Pérez,Leicester City,MF
+Wesley Fofana,Leicester City,DF
+Marc Albrighton,Leicester City,FW
+Alisson,Liverpool,GK
+Mohamed Salah,Liverpool,FW
+Trent Alexander-Arnold,Liverpool,DF
+Virgil van Dijk,Liverpool,DF
+Fabinho,Liverpool,MF
+Andrew Robertson,Liverpool,DF
+Jordan Henderson,Liverpool,MF
+Darwin Núñez,Liverpool,FW
+Harvey Elliott,Liverpool,MF
+Ibrahima Konaté,Liverpool,DF
+Cody Gakpo,Liverpool,FW
+Joe Gomez,Liverpool,DF
+Thiago Alcántara,Liverpool,MF
+Roberto Firmino,Liverpool,FW
+Diogo Jota,Liverpool,FW
+Joël Matip,Liverpool,DF
+Curtis Jones,Liverpool,MF
+Luis Díaz,Liverpool,FW
+Kostas Tsimikas,Liverpool,DF
+James Milner,Liverpool,MF
+Stefan Bajcetic,Liverpool,MF
+Fabio Carvalho,Liverpool,MF
+Alex Oxlade-Chamberlain,Liverpool,FW
+Naby Keïta,Liverpool,MF
+Nathaniel Phillips,Liverpool,DF
+Ben Doak,Liverpool,FW
+Ederson,Manchester City,GK
+Rodri,Manchester City,MF
+Erling Haaland,Manchester City,FW
+Kevin De Bruyne,Manchester City,MF
+İlkay Gündoğan,Manchester City,MF
+Manuel Akanji,Manchester City,DF
+Bernardo Silva,Manchester City,MF
+Jack Grealish,Manchester City,FW
+Rúben Dias,Manchester City,DF
+Kyle Walker,Manchester City,DF
+Riyad Mahrez,Manchester City,FW
+Nathan Aké,Manchester City,DF
+Phil Foden,Manchester City,FW
+John Stones,Manchester City,DF
+João Cancelo,Manchester City,DF
+Julián Álvarez,Manchester City,FW
+Aymeric Laporte,Manchester City,DF
+Rico Lewis,Manchester City,DF
+Cole Palmer,Manchester City,MF
+Sergio Gómez,Manchester City,DF
+Kalvin Phillips,Manchester City,MF
+Shea Charles,Manchester City,DF
+David de Gea,Manchester United,GK
+Bruno Fernandes,Manchester United,MF
+Marcus Rashford,Manchester United,FW
+Luke Shaw,Manchester United,DF
+Christian Eriksen,Manchester United,MF
+Diogo Dalot,Manchester United,DF
+Casemiro,Manchester United,MF
+Lisandro Martínez,Manchester United,DF
+Antony,Manchester United,FW
+Raphaël Varane,Manchester United,DF
+Jadon Sancho,Manchester United,FW
+Aaron Wan-Bissaka,Manchester United,DF
+Tyrell Malacia,Manchester United,DF
+Victor Lindelöf,Manchester United,DF
+Fred,Manchester United,MF
+Anthony Martial,Manchester United,FW
+Scott McTominay,Manchester United,MF
+Wout Weghorst,Manchester United,FW
+Harry Maguire,Manchester United,DF
+Marcel Sabitzer,Manchester United,MF
+Alejandro Garnacho,Manchester United,FW
+Anthony Elanga,Manchester United,FW
+Cristiano Ronaldo,Manchester United,FW
+Donny van de Beek,Manchester United,MF
+Kieran Trippier,Newcastle United,DF
+Nick Pope,Newcastle United,GK
+Fabian Schär,Newcastle United,DF
+Sven Botman,Newcastle United,DF
+Dan Burn,Newcastle United,DF
+Bruno Guimarães,Newcastle United,MF
+Joe Willock,Newcastle United,MF
+Joelinton,Newcastle United,MF
+Miguel Almirón,Newcastle United,FW
+Sean Longstaff,Newcastle United,MF
+Callum Wilson,Newcastle United,FW
+Alexander Isak,Newcastle United,FW
+Jacob Murphy,Newcastle United,FW
+Allan Saint-Maximin,Newcastle United,FW
+Matt Targett,Newcastle United,DF
+Anthony Gordon,Newcastle United,FW
+Chris Wood,Newcastle United,FW
+Elliot Anderson,Newcastle United,MF
+Ryan Fraser,Newcastle United,FW
+Jamaal Lascelles,Newcastle United,DF
+Martin Dúbravka,Newcastle United,GK
+Matt Ritchie,Newcastle United,FW
+Javier Manquillo,Newcastle United,DF
+Jonjo Shelvey,Newcastle United,MF
+Morgan Gibbs-White,Nottingham Forest,MF
+Brennan Johnson,Nottingham Forest,FW
+Renan Lodi,Nottingham Forest,DF
+Remo Freuler,Nottingham Forest,MF
+Serge Aurier,Nottingham Forest,DF
+Joe Worrall,Nottingham Forest,DF
+Ryan Yates,Nottingham Forest,MF
+Neco Williams,Nottingham Forest,DF
+Orel Mangala,Nottingham Forest,MF
+Scott McKenna,Nottingham Forest,DF
+Taiwo Awoniyi,Nottingham Forest,FW
+Felipe,Nottingham Forest,DF
+Moussa Niakhate,Nottingham Forest,DF
+Danilo,Nottingham Forest,MF
+Jesse Lingard,Nottingham Forest,FW
+Steve Cook,Nottingham Forest,DF
+Cheikhou Kouyaté,Nottingham Forest,MF
+Harry Toffolo,Nottingham Forest,DF
+Willy Boly,Nottingham Forest,DF
+Emmanuel Dennis,Nottingham Forest,FW
+Lewis O'Brien,Nottingham Forest,MF
+Jonjo Shelvey,Nottingham Forest,MF
+Chris Wood,Nottingham Forest,FW
+Jack Colback,Nottingham Forest,MF
+Wayne Hennessey,Nottingham Forest,GK
+Gustavo Scarpa,Nottingham Forest,MF
+Sam Surridge,Nottingham Forest,FW
+André Ayew,Nottingham Forest,FW
+Giulian Biancone,Nottingham Forest,DF
+Alexander Mighten,Nottingham Forest,FW
+James Ward-Prowse,Southampton,MF
+Gavin Bazunu,Southampton,GK
+Kyle Walker-Peters,Southampton,DF
+Mohamed Elyounoussi,Southampton,MF
+Roméo Lavia,Southampton,MF
+Armel Bella Kotchap,Southampton,DF
+Che Adams,Southampton,FW
+Romain Perraud,Southampton,DF
+Mohammed Salisu,Southampton,DF
+Jan Bednarek,Southampton,DF
+Stuart Armstrong,Southampton,MF
+Adam Armstrong,Southampton,FW
+Ainsley Maitland-Niles,Southampton,DF
+Joe Aribo,Southampton,MF
+Theo Walcott,Southampton,FW
+Carlos Alcaraz,Southampton,MF
+Lyanco,Southampton,DF
+Ibrahima Diallo,Southampton,MF
+Kamaldeen Sulemana,Southampton,FW
+Duje Ćaleta-Car,Southampton,DF
+Moussa Djenepo,Southampton,DF
+Alex McCarthy,Southampton,GK
+Samuel Edozie,Southampton,FW
+Sekou Mara,Southampton,FW
+Paul Onuachu,Southampton,FW
+James Bree,Southampton,DF
+Juan Larios,Southampton,DF
+Jack Stephens,Southampton,DF
+Samuel Amo-Ameyaw,Southampton,MF
+Harry Kane,Tottenham Hotspur,FW
+Pierre Højbjerg,Tottenham Hotspur,MF
+Son Heung-min,Tottenham Hotspur,MF
+Eric Dier,Tottenham Hotspur,DF
+Cristian Romero,Tottenham Hotspur,DF
+Ben Davies,Tottenham Hotspur,DF
+Hugo Lloris,Tottenham Hotspur,GK
+Clément Lenglet,Tottenham Hotspur,DF
+Ivan Perišić,Tottenham Hotspur,DF
+Dejan Kulusevski,Tottenham Hotspur,MF
+Emerson,Tottenham Hotspur,DF
+Oliver Skipp,Tottenham Hotspur,MF
+Rodrigo Bentancur,Tottenham Hotspur,MF
+Pedro Porro,Tottenham Hotspur,DF
+Richarlison,Tottenham Hotspur,MF
+Yves Bissouma,Tottenham Hotspur,MF
+Ryan Sessegnon,Tottenham Hotspur,DF
+Davinson Sánchez,Tottenham Hotspur,DF
+Matt Doherty,Tottenham Hotspur,DF
+Pape Matar Sarr,Tottenham Hotspur,MF
+Bryan Gil,Tottenham Hotspur,MF
+Japhet Tanganga,Tottenham Hotspur,DF
+Lucas Moura,Tottenham Hotspur,MF
+Harvey White,Tottenham Hotspur,MF
+Declan Rice,West Ham,MF
+Jarrod Bowen,West Ham,FW
+Łukasz Fabiański,West Ham,GK
+Tomáš Souček,West Ham,MF
+Lucas Paquetá,West Ham,MF
+Thilo Kehrer,West Ham,DF
+Aaron Cresswell,West Ham,DF
+Vladimír Coufal,West Ham,DF
+Kurt Zouma,West Ham,DF
+Saïd Benrahma,West Ham,FW
+Michail Antonio,West Ham,FW
+Nayef Aguerd,West Ham,DF
+Pablo Fornals,West Ham,FW
+Emerson Palmieri,West Ham,DF
+Angelo Ogbonna,West Ham,DF
+Gianluca Scamacca,West Ham,FW
+Ben Johnson,West Ham,DF
+Craig Dawson,West Ham,DF
+Danny Ings,West Ham,FW
+Flynn Downes,West Ham,MF
+Manuel Lanzini,West Ham,MF
+Maxwel Cornet,West Ham,FW
+Max Kilman,Wolverhampton Wanderers,DF
+José Sá,Wolverhampton Wanderers,GK
+Rúben Neves,Wolverhampton Wanderers,MF
+Nélson Semedo,Wolverhampton Wanderers,DF
+Matheus Nunes,Wolverhampton Wanderers,MF
+João Moutinho,Wolverhampton Wanderers,MF
+Daniel Podence,Wolverhampton Wanderers,FW
+Nathan Collins,Wolverhampton Wanderers,DF
+Craig Dawson,Wolverhampton Wanderers,DF
+Mario Lemina,Wolverhampton Wanderers,MF
+Hugo Bueno,Wolverhampton Wanderers,DF
+Diego Costa,Wolverhampton Wanderers,FW
+Jonny Castro,Wolverhampton Wanderers,DF
+Pedro Neto,Wolverhampton Wanderers,FW
+Adama Traoré,Wolverhampton Wanderers,FW
+Hwang Hee-chan,Wolverhampton Wanderers,FW
+Matheus Cunha,Wolverhampton Wanderers,FW
+Toti Gomes,Wolverhampton Wanderers,DF
+Rayan Aït Nouri,Wolverhampton Wanderers,DF
+Pablo Sarabia,Wolverhampton Wanderers,FW
+Raúl Jiménez,Wolverhampton Wanderers,FW
+Gonçalo Guedes,Wolverhampton Wanderers,FW
+João Gomes,Wolverhampton Wanderers,MF
+Boubacar Traoré,Wolverhampton Wanderers,MF
+Leander Dendoncker,Wolverhampton Wanderers,MF
+Daniel Bentley,Wolverhampton Wanderers,GK
+Morgan Gibbs-White,Wolverhampton Wanderers,FW
+Joseph Hodge,Wolverhampton Wanderers,MF
+Chem Campbell,Wolverhampton Wanderers,FW
